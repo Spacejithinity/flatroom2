@@ -26,7 +26,7 @@ var background = new Image();
 var layer_list = [
 	{
 		'image': background,
-		'src': 'img/20210718104202.png',
+		'src': '20210718104202.png',
 		'z_index': -2.25,
 		'position': {x: 0, y: 0},
 		'blend': null,
